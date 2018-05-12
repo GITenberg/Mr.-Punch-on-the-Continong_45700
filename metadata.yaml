@@ -1,0 +1,32 @@
+_repo: Mr.-Punch-on-the-Continong_45700
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45700-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, Sir John Alexander
+    - Hammerton, J. A. (John Alexander)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_issued: '2014-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'English wit and humor'
+- !lcsh 'English wit and humor, Pictorial'
+- !lcsh 'Europe -- Description and travel -- Humor'
+title: Mr. Punch on the Continong
+url: http://www.gutenberg.org/ebooks/45700
